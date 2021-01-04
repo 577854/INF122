@@ -1,0 +1,8 @@
+(Minus (Word "abc") (Plus (Num 2) (Word "a")))
+(Plus (Word "abx") (Minus (Num 19) (Word "n")))
+(Plus (Num 2) (Num 12))
+(Mult (Num 3) (Num 2))
+(Mult (Word "abc") (Num 3))
+(Minus (Word "a") (Plus (Mult (Num 2) (Word "b")) (Num 3)))
+
+

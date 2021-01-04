@@ -1,0 +1,11 @@
+a + b
+2*a+b
+dd + 23*bq
+ab + bc
+cabbage - aabcd
+3 * hei
+abc - b + c
+a-2*a+3*c
+a - 2 * b + c
+2*3*2*hei
+a + b + 2*a+bdd + 23*bqab + bccabbage - aabcd +3 * heiabc - b + ca-2*a+3*ca - 2 * b + c+2*3*2*hei
